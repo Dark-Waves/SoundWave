@@ -14,16 +14,6 @@ SoundWave by DarkWaves is an avant-garde music player designed to redefine your 
 - **Visual Splendor:** Immerse yourself in a visual feast with dynamic visualizers and stunning album artwork.
 - **User-Centric Interface:** Navigate your musical world with an intuitive and user-friendly interface.
 
-## Installation
-
-To get started with SoundWave, follow the steps below:
-
-```bash
-git clone https://github.com/DarkWaves/SoundWave.git
-cd SoundWave
-npm install
-npm start
-```
 
 ## Usage
 
